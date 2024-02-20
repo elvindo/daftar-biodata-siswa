@@ -1,4 +1,4 @@
-1. Nama   : Mochamad Elvindobr>
+1. Nama   : Mochamad Elvindo<br>
    NIM    : H2020000001<br>
    JK     : Laki - Laki<br>
    Agama  : Islam<br>
