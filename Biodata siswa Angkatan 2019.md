@@ -1,11 +1,11 @@
-1. Nama   : Aco Wahyudi<br>
+1. Nama   : Mochamad Elvindobr>
    NIM    : H2020000001<br>
    JK     : Laki - Laki<br>
    Agama  : Islam<br>
    TTL    : Ambon, 19 Agustus 2003<br>
    Alamat : Jln. Loa Bakung RT.21 No.04<br>
  
-2. Nama   : Erna Mulyani<br>
+2. Nama   : Elvira gita saharani<br>
    NIM    : H202000006<br>
    JK     : Perempuan<br>
    Agama  : Islam<br>
